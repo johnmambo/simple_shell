@@ -25,6 +25,7 @@ extern char **environ;
  *
  * Description: generic linked list struct for variables.
  **/
+
 typedef struct list_s
 {
 char *value;

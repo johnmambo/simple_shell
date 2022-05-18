@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * tokenizer - tokenizes string
+ * tokenizer - tokenizes strings
  * @str: user input
  * Return: pointer to array of tokens
  */

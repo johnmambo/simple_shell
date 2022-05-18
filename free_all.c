@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * free_all - frees all malloc'd space at end of main loop
+ * free_all - frees all malloc-d space at end of main loop
  * @tokens: pointer to tokens array
  * @path: pointer to path variable
  * @line: pointer to user input buffer

@@ -7,6 +7,7 @@
  *Description: Avoid exit with Ctrl C
  *Return: nothing
  */
+
 void CtrlC(int sig_num)
 {
 (void) sig_num;

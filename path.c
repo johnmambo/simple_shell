@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _which - searches directories in PATH variable for command
+ * _which - searches directories in  the PATH variable for command
  * @command: to search for
  * @fullpath: full path of command to execute
  * @path: full PATH variable

@@ -3,7 +3,7 @@
 /**
  * _myexit - check command line to exit shell
  * @line: command line
- * Return: 0 (Success) 1 (Fail)
+ * Return: 0 if Success and 1 if Fail
  **/
 int _myexit(char *line)
 {

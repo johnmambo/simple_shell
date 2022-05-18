@@ -4,6 +4,7 @@
  * @fd: file stream
  * @buf: buffer
  **/
+
 void prompt(int fd, struct stat buf)
 {
 fstat(fd, &buf);

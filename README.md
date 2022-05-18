@@ -2,7 +2,7 @@ Simple_shell
 
 Description
 
-simple_shell is a command line interpreter, or shell, in the tradition of the first Unix shell written by Ken Thompson in 1971. This shell includes the basic functionality of a traditional Unix-like command line user interface. Standard functions and system calls employed in simple_shell include: access, execute, exit, fork, execute, fstat, getline, malloc, perror, signal, stat, wait, write.
+simple_shell is a command-line interpreter, or shell, in the tradition of the first Unix shell written by Ken Thompson in 1971. This shell includes the basic functionality of a traditional Unix-like command line user interface. Standard functions and system calls employed in simple_shell include: access, execute, exit, fork, execute, fstat, getline, malloc, perror, signal, stat, wait, write.
 
 Requirements
 
